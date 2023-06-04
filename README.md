@@ -60,3 +60,4 @@ The results will be saved at `./results/`. Use `--results_dir {directory_path_to
   Install Steps: `conda create -n python36 pyhton=3.6 anaconda` and `pip install --ignore-installed --upgrade tensorflow==1.13.1`
 
 
+Citation : Yadav, N.K., Singh, S.K. & Dubey, S.R. CSA-GAN: Cyclic synthesized attention guided generative adversarial network for face synthesis. Appl Intell 52, 12704–12723 (2022). https://doi.org/10.1007/s10489-021-03064-0
